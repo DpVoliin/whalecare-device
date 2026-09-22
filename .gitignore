@@ -1,0 +1,8 @@
+.pio/
+.vscode/
+include/secrets.h
+*.bin
+*.elf
+tools/*.otf
+tools/*.ttf
+include/whale_font.h
